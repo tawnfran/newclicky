@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/newclicky/static/css/main.612d7846.chunk.css",
-    "main.js": "/newclicky/static/js/main.a2a611dc.chunk.js",
-    "main.js.map": "/newclicky/static/js/main.a2a611dc.chunk.js.map",
+    "main.js": "/newclicky/static/js/main.81eecae3.chunk.js",
+    "main.js.map": "/newclicky/static/js/main.81eecae3.chunk.js.map",
     "runtime-main.js": "/newclicky/static/js/runtime-main.37a0b1d5.js",
     "runtime-main.js.map": "/newclicky/static/js/runtime-main.37a0b1d5.js.map",
     "static/js/2.a76d27e1.chunk.js": "/newclicky/static/js/2.a76d27e1.chunk.js",
     "static/js/2.a76d27e1.chunk.js.map": "/newclicky/static/js/2.a76d27e1.chunk.js.map",
     "index.html": "/newclicky/index.html",
-    "precache-manifest.44a5708bb4217e99959a1b210afc6100.js": "/newclicky/precache-manifest.44a5708bb4217e99959a1b210afc6100.js",
+    "precache-manifest.4ac1d74b6d8539109acb9ee81dcc1ba3.js": "/newclicky/precache-manifest.4ac1d74b6d8539109acb9ee81dcc1ba3.js",
     "service-worker.js": "/newclicky/service-worker.js",
     "static/css/main.612d7846.chunk.css.map": "/newclicky/static/css/main.612d7846.chunk.css.map",
     "static/js/2.a76d27e1.chunk.js.LICENSE": "/newclicky/static/js/2.a76d27e1.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.37a0b1d5.js",
     "static/js/2.a76d27e1.chunk.js",
     "static/css/main.612d7846.chunk.css",
-    "static/js/main.a2a611dc.chunk.js"
+    "static/js/main.81eecae3.chunk.js"
   ]
 }
