@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newclicky/static/css/main.612d7846.chunk.css",
+    "main.js": "/newclicky/static/js/main.a2a611dc.chunk.js",
+    "main.js.map": "/newclicky/static/js/main.a2a611dc.chunk.js.map",
+    "runtime-main.js": "/newclicky/static/js/runtime-main.37a0b1d5.js",
+    "runtime-main.js.map": "/newclicky/static/js/runtime-main.37a0b1d5.js.map",
+    "static/js/2.a76d27e1.chunk.js": "/newclicky/static/js/2.a76d27e1.chunk.js",
+    "static/js/2.a76d27e1.chunk.js.map": "/newclicky/static/js/2.a76d27e1.chunk.js.map",
+    "index.html": "/newclicky/index.html",
+    "precache-manifest.44a5708bb4217e99959a1b210afc6100.js": "/newclicky/precache-manifest.44a5708bb4217e99959a1b210afc6100.js",
+    "service-worker.js": "/newclicky/service-worker.js",
+    "static/css/main.612d7846.chunk.css.map": "/newclicky/static/css/main.612d7846.chunk.css.map",
+    "static/js/2.a76d27e1.chunk.js.LICENSE": "/newclicky/static/js/2.a76d27e1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37a0b1d5.js",
+    "static/js/2.a76d27e1.chunk.js",
+    "static/css/main.612d7846.chunk.css",
+    "static/js/main.a2a611dc.chunk.js"
+  ]
+}
