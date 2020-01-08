@@ -69,21 +69,37 @@ class App extends Component {
   }
   render() {
     return (
-      <div>
-        <h2> Work that brain! </h2>
-        <h4> Click on each team but don't click the same team twice!</h4>
-        <h3> Score: {this.state.score} </h3>
+          // <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
+          <div className="container">
+            <div className="row">
+              <div className="col-12">
+              <h2> Can you memorize these NBA teams? </h2>
+              </div>
+
+
+            </div>
+            <div className="row">
+              <div className="col-12">
+              <div className="col-6">
+              <h4> Click on each team but don't click the same team twice!</h4>
+          <h4> The score will update accordingly, and reset when you lose!!</h4>
+              </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-12">
+              <h3> Score: {this.state.score} </h3>
         {this.state.data.map(item => (
           <Card
             id={item.id}
             width={100}
             height={100}
             front={item.pic}
-            handleClick={this.handleItemClick}
-          />
+            handleClick={this.handleItemClick}/>
         ))}
-
-      </div>
+              </div>
+            </div>
+       </div>
     );
   }
 }
